@@ -17,7 +17,7 @@
 .number{
     position: absolute;
     margin-top: -2rem;
-    margin-left: 6rem;
+    margin-left: 10rem;
     border: 2px solid #0096c7;
     border-radius: 8px;
 }
@@ -113,24 +113,21 @@ img{
 .contenedor1{
     position: absolute;
     margin-left: 30rem;
-    margin-top: -20rem;
+    margin-top: -30rem;
     border: 2px solid #04773B;
     border-radius: 30px;
     width: 60rem;
     height: 28rem;
 }
 
-.contenedor2{
+.contenedor3{
     border-radius: 25px;
     display: flex;
     width: 50rem;
     text-align: center;
-    margin: auto;
-    height: 20rem;
-}
-
-.contenedor2 p{
-    margin-top: 15px;
+    margin: 10px auto;
+    height: 30rem;
+    margin-top: 1rem;
 }
 
 .p1{
